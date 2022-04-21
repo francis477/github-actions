@@ -17,5 +17,3 @@ jobs:
         server: ftp.slymdev.website
         username: ${{ secrets.ftp_username_production }}
         password: ${{ secrets.ftp_password }}
-  
-        # server-dir: /home/slymydii/test.slymdev.website/
